@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AgentResponse",
+  "type": "object",
+  "properties": {
+    "query": {"type": "string"},
+    "answer": {"type": "string"},
+    "confidence": {"type": "number"},
+    "source": {"type": "string"}
+  },
+  "required": ["query", "answer", "confidence"]
+}

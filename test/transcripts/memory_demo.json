@@ -1,0 +1,8 @@
+{
+  "conversation_id": "demo_001",
+  "turns": [
+    {"user": "Check status for TKT001", "agent": "Ticket TKT001 is In Progress with escalation score 0.45"},
+    {"user": "Remind me what we discussed earlier", "agent": "We discussed ticket TKT001 status and escalation score."}
+  ]
+}
+
